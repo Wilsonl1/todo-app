@@ -1,0 +1,1 @@
+// This is the main component that holds the state and manages the overall logic of the app

@@ -1,0 +1,1 @@
+// Each individual todo item will be a component. I don't think I understand this just yet but hopefully I will shortly. 
